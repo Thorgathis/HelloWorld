@@ -1,4 +1,4 @@
-# Hello-World
+# HelloWorld
 
 ## B
 - Batch
