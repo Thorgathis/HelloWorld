@@ -14,7 +14,7 @@
 - Java
 
 ## K
-- Koltin
+- Kotlin
 
 ## P
 - Python
